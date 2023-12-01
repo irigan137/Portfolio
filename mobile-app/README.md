@@ -17,4 +17,4 @@ The dataset contains data about users who had their first  events in the app aft
 
 ## Technologies used
 
-Python, pandas, numpy, matplotlib, plotly
+Python, pandas, numpy, matplotlib, plotly, statsmodels
